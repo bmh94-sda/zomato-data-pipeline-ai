@@ -1,0 +1,22 @@
+# Sensitive keys
+rsa_key.p8
+rsa_key.pub
+
+# dbt
+zomato_dbt/target/
+zomato_dbt/dbt_packages/
+zomato_dbt/logs/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Raw data (lives in S3, not git)
+Data/
+
+# Top-level dbt logs
+logs/
