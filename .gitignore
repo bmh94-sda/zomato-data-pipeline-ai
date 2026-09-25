@@ -24,3 +24,5 @@ logs/
 .env
 
 zomato/profiles.yml
+
+*.parquet
