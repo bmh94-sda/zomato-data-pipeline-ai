@@ -91,6 +91,9 @@ Real problems hit while building this, and how they were resolved:
 ```
 ├── docs/
 │   └── architecture.png
+│   ├── airflow-dag.png
+│   ├── rag-chat.png
+│   └── text-to-sql.png
 ├── airflow/                  # Airflow 3 on Docker
 │   ├── Dockerfile
 │   ├── docker-compose.yml
