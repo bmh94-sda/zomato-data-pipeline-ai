@@ -168,4 +168,4 @@ python3 -m streamlit run text_to_sql.py   # chat with the warehouse
 
 ## 👤 Maneesha
 
-Built end-to-end as a data engineering portfolio project — covering raw ingestion, medallion modeling, incremental transformation, containerized orchestration, and three architecturally distinct applied-GenAI patterns.
+Built end-to-end AI Pipeline as a data engineering portfolio project — covering raw ingestion, medallion modeling, incremental transformation, containerized orchestration, and three architecturally distinct applied-GenAI patterns.
