@@ -28,7 +28,7 @@
 
 ## 🧱 Tech Stack
 
-Python · Pandas · Amazon S3 · Snowflake · dbt (`dbt-snowflake`) · Apache Airflow 3 (Docker Compose) · OpenAI (`gpt-4o-mini`, `text-embedding-3-small`) · Streamlit · RSA key-pair authentication
+Python · Pandas · Numpy · Amazon S3 · Snowflake · dbt (`dbt-snowflake`) · Apache Airflow 3 (Docker Compose) · OpenAI (`gpt-4o-mini`, `text-embedding-3-small`) · Streamlit · RSA key-pair authentication
 
 ---
 
@@ -154,9 +154,14 @@ python3 -m streamlit run text_to_sql.py   # chat with the warehouse
 
 ## 📸 Screenshots
 
-*(Airflow DAG graph, RAG chat app, text-to-SQL app with generated SQL + chart)*
+**Airflow — orchestrated pipeline**
+![Airflow DAG](docs/airflow-dag.png)
 
----
+**RAG — Chat with your Reviews**
+![RAG Chat](docs/rag-chat.png)
+
+**Text-to-SQL — Chat with your Data**
+![Text to SQL](docs/text-to-sql.png)
 
 ## 👤 Maneesha
 
