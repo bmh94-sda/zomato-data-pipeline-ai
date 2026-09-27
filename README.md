@@ -1,4 +1,4 @@
-# 🍽️ Zomato AI Data Platform
+# Zomato End-to-End AI Data Engineering Pipeline
 
 **An end-to-end, production-style data engineering pipeline** — built on the Medallion Architecture — that ingests raw food-delivery data, transforms it into analytics-ready models, and layers three distinct GenAI capabilities (LLM enrichment, RAG, and Text-to-SQL) on top of the warehouse.
 
